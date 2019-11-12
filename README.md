@@ -28,3 +28,5 @@ Example: double[] p = {0.1, 0.2, 0.3, 0.4}; The chance of getting 3rd element is
 
 ## Note:
 Please run and try out codes to understand more.
+
+All methods use all basic programming concepts, which mean that it's easy to implement on other languages.
